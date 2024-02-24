@@ -1,0 +1,59 @@
+{
+    "data": {
+        "meta": null,
+        "payload": {
+            "comments": {},
+            "parameters": {
+                "formUuid": "1d42c94c-7eda-49a4-8d96-628fbeff72f5",
+                "lddatum": "1900-01-01",
+                "patientUuid": "2f93c46a-8898-11eb-a1cd-77bad06b174a",
+                "ldzeit": "00:00:00"
+            },
+            "values": {
+                "5f734c4f5c624ac1b0384e017c055083": "Nein",
+                "0549768553924548a3823fca6253e4ba": "",
+                "d97898c53c594fb090887152689a3a89": "",
+                "lddatum": "1900-01-01",
+                "dbb90ad6f5024bda82c29bd280baccaf": "Ja",
+                "bdfe8b9fd49d4b73ab200347153ef760": "Nein",
+                "8867fa1c1f314cb68fc0366c3e393fa7": "Ja",
+                "0fc579aea6dc49c5b72f62d6d7d323c1": "",
+                "6868a2432dbb4758bf07861d8b34a001": "",
+                "20f48839e03d4df88efc20332e9915d8": "Lungenkrebs",
+                "1217a3be047b477f962ccf0002cd0d0f": "",
+                "ldzeit": "00:00:00",
+                "dee1651fb0874cc1a8e46bfacd945cf6": "",
+                "640c545d0ee24b009805f84a67dbe18b": "",
+                "75a21abc249743bcb45c8064dd602d98": "Ja",
+                "9a57fc1009ea4ae0a677f37143fc75c3": "Ja",
+                "f669443c2a95450e8abdad77ca7fc6a7": "2022-03-01",
+                "1c97f2d38c9d46cf9ab4de9cd179946e": "Nein",
+                "9a7ae1e8224c43e6b10a85249e366571": "Nein",
+                "5976d49fc53640789ca9d448de285889": "Nein",
+                "8f1a79783f414613aa03b0ae48b56c59": "5 - 10",
+                "53515283cd234731b84dc3ee2fd77edb": "Ja",
+                "9343f31ede7b4af886be2ccebbd9a9e3": "Ja",
+                "4c90ec12bab24ad089c92623705f3263": "Nein",
+                "825dcbfebaae4a57aa8cfb225c9230ca": "Ja",
+                "cce8a1d88735433e832287d665b7ecb4": "",
+                "32b97b8186e3469b836e4924455d8bd7": "Nein",
+                "282e7aa14b204765ad38599faa20933a": "Dde",
+                "305ac0d82813468b827ce3a076d2c455": "",
+                "erfassId": null,
+                "f870da98535940f19fef694837de9d5e": {
+                    "uuid": "51905fbf-e463-45bf-9ac1-937e9753a63d|0"
+                },
+                "4043a9fef21e4fd49b8c66a936f12967": "Nein",
+                "ee6ee4207ce246e0ba015eb9dd4bc922": [
+                    "Asthma",
+                    "Herzkrankheiten",
+                    "Magen- oder Darmerkrankungen"
+                ]
+            }
+        },
+        "request": null
+    },
+    "errorCode": null,
+    "errorMessage": null,
+    "status": 200
+}
